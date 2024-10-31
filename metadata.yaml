@@ -3,6 +3,6 @@ description: "Turns MySQL off"
 author: "Berto1019"
 tactic: "damage"
 input_parameters:
-  - name: MySQL
+  - name: StopSQL
     type: "system"
     description: "Turns off mysql using systemctl"
